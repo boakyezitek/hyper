@@ -1,0 +1,16 @@
+{
+    "name": "tonacode/hyper-php-framework",
+    "description": "This is the best php framework that can speed up your project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./" 
+        }
+    },
+    "authors": [
+        {
+            "name": "Kofi Boakye",
+            "email": "66253143+boakyezitek@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
